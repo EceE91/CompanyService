@@ -1,0 +1,7 @@
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\bin\CompanyService.dll.config
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\bin\CompanyService.dll
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\bin\CompanyService.pdb
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.csprojAssemblyReference.cache
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyService\obj\Debug\CompanyService.pdb

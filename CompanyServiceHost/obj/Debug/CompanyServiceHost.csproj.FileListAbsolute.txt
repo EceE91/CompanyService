@@ -1,0 +1,11 @@
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.pdb
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csprojAssemblyReference.cache
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+C:\Users\eercece\source\repos\WCF\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb
